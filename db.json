@@ -1,0 +1,142 @@
+{
+  "cars": [
+    {
+      "brand": "Toyota",
+      "model": "Rush",
+      "transmission": "Automatic",
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repudiandae, laborum itaque. Officia maiores obcaecati qui ex adipisci laudantium labore nostrum.",
+      "mileage": 200,
+      "price": 90000,
+      "id": 1,
+      "thumbnail": "/images/car.jpg",
+      "images": [
+        "/images/carousel-img-1.jpg",
+        "/images/carousel-img-2.jpg",
+        "/images/carousel-img-3.jpg"
+      ]
+    },
+    {
+      "brand": "Toyota",
+      "model": "Innova",
+      "transmission": "Manual",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, quis.",
+      "mileage": 150,
+      "price": 60000,
+      "id": 2,
+      "thumbnail": "/images/car.jpg",
+      "images": [
+        "/images/carousel-img-1.jpg",
+        "/images/carousel-img-2.jpg",
+        "/images/carousel-img-3.jpg"
+      ]
+    },
+    {
+      "brand": "Toyota",
+      "model": "Innova",
+      "transmission": "Automatic",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quidem, magni possimus laborum earum dolore quas ut sunt officia, velit maiores aspernatur magnam ullam veniam nulla quaerat sint, consequuntur sapiente totam ipsum soluta libero tempora ea. Unde vel officia quod atque labore ad, impedit, animi temporibus nostrum quibusdam suscipit mollitia.",
+      "mileage": 150,
+      "price": 70000,
+      "id": 3,
+      "thumbnail": "/images/car.jpg",
+      "images": [
+        "/images/carousel-img-1.jpg",
+        "/images/carousel-img-2.jpg",
+        "/images/carousel-img-3.jpg"
+      ]
+    },
+    {
+      "brand": "Toyota",
+      "model": "Fortuner",
+      "transmission": "Automatic",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Omnis doloribus excepturi quae corporis atque, quas perferendis. Perferendis, delectus! Provident nihil recusandae dicta iste sunt, neque vero praesentium nostrum ad mollitia? Facilis ipsum amet nemo obcaecati harum quidem enim quisquam numquam.",
+      "mileage": 270,
+      "price": 120000,
+      "id": 4,
+      "thumbnail": "/images/car.jpg",
+      "images": [
+        "/images/carousel-img-1.jpg",
+        "/images/carousel-img-2.jpg",
+        "/images/carousel-img-3.jpg"
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic",
+      "transmission": "Manual",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam sed aspernatur aut nobis officia recusandae commodi iste numquam sapiente, blanditiis libero fuga quidem fugiat at excepturi quasi ducimus repellendus voluptate.",
+      "mileage": 250,
+      "price": 85000,
+      "id": 5,
+      "thumbnail": "/images/car.jpg",
+      "images": [
+        "/images/carousel-img-1.jpg",
+        "/images/carousel-img-2.jpg",
+        "/images/carousel-img-3.jpg"
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": "Accent",
+      "transmission": "Automatic",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, quis.",
+      "mileage": 120,
+      "price": 45000,
+      "id": 6,
+      "thumbnail": "/images/car.jpg",
+      "images": [
+        "/images/carousel-img-1.jpg",
+        "/images/carousel-img-2.jpg",
+        "/images/carousel-img-3.jpg"
+      ]
+    },
+    {
+      "brand": "Honda",
+      "model": "CR-V",
+      "transmission": "Automatic",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quidem, magni possimus laborum earum dolore quas ut sunt officia, velit maiores aspernatur magnam ullam veniam nulla quaerat sint, consequuntur sapiente totam ipsum soluta libero tempora ea. Unde vel officia quod atque labore ad, impedit, animi temporibus nostrum quibusdam suscipit mollitia.",
+      "mileage": 120,
+      "price": 45000,
+      "id": 7,
+      "thumbnail": "/images/car.jpg",
+      "images": [
+        "/images/carousel-img-1.jpg",
+        "/images/carousel-img-2.jpg",
+        "/images/carousel-img-3.jpg"
+      ]
+    }
+  ],
+  "brands": ["Toyota", "Honda"],
+  "models": [
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Rush"
+    },
+    {
+      "id": 2,
+      "brand": "Toyota",
+      "model": "Innova"
+    },
+    {
+      "id": 3,
+      "brand": "Toyota",
+      "model": "Fortuner"
+    },
+    {
+      "id": 4,
+      "brand": "Honda",
+      "model": "Civic"
+    },
+    {
+      "id": 5,
+      "brand": "Honda",
+      "model": "Accent"
+    },
+    {
+      "id": 6,
+      "brand": "Honda",
+      "model": "CR-V"
+    }
+  ]
+}
